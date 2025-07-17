@@ -10,7 +10,7 @@
           <!-- Project Header -->
           <div class="flex justify-between items-start q-mb-lg">
             <div>
-              <div class="text-h4 text-weight-bold">{{ currentProject.name }}</div>
+              <div class="text-h4 text-weight-bold" style="color: white;">{{ currentProject.name }}</div>
               <div class="text-grey-6 q-mb-sm">{{ currentProject.description || 'Sin descripción' }}</div>
               <div class="flex items-center q-gutter-sm">
                 <q-chip

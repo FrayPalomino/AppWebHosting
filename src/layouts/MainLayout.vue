@@ -329,7 +329,7 @@ $border-color: #475569;
       }
       
       &:hover {
-        background: linear-gradient(135deg, #374151 0%, #4b5563 100%);
+        background: linear-gradient(135deg, #b2b8c2 0%, #929ead 100%);
         transform: translateX(8px);
         box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
         
